@@ -1,7 +1,7 @@
 import { FETCH_PRODUCTS } from "../types";
 import { FILTER_PRODUCTS_BY_GENRE, ORDER_PRODUCTS_BY_PRICE } from "../types";
 export const fetchProducts = () => async (dispatch) => {
-  const res = await fetch("http://eSaleBookStore.somee.com/api/users");
+  const res = await fetch("https://localhost:5001/api/Users");
   const data = await res.json();
   console.log(data);
   dispatch({
