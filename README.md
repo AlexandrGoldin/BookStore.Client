@@ -5,3 +5,6 @@ _________
 * React.js
 * Redux
 * Redux-Thunk
+_____________________
+![BS C screenshot1](https://github.com/AlexandrGoldin/BookStore.Client/assets/50864552/388cf19b-5acd-4a0e-80a7-bf0e3800da78)
+
