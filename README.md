@@ -6,5 +6,7 @@ _________
 * Redux
 * Redux-Thunk
 _____________________
+
+Главная страница #### BookStore со статистикой, фильтрами, корзиной покупок, кнопкой продолжить, формой заказа, и кнопкой #### Проверить
 ![BS C screenshot1](https://github.com/AlexandrGoldin/BookStore.Client/assets/50864552/388cf19b-5acd-4a0e-80a7-bf0e3800da78)
 
