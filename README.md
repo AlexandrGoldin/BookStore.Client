@@ -19,7 +19,7 @@ _____
 ![BS C screenshot3](https://github.com/AlexandrGoldin/BookStore.Client/assets/50864552/52da4a73-13e0-47ed-8360-f57d3e5b0ac4)
 
 _____
-* Страница администратора __Admin__ выводит списщк заказов из базы данных __BookStore.Server__
+* Страница администратора __Admin__ выводит список заказов полученный из __BookStore.Server__
 ![BS C screenshot4](https://github.com/AlexandrGoldin/BookStore.Client/assets/50864552/f5adb013-0d73-49cb-a067-36c512797bc3)
 
 
