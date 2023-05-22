@@ -16,5 +16,8 @@ ____
 _____
 
 * Модальное окно с данными заказа отправленного в базу данных BookStore.Server и подтверждением для клиента
+![BS C screenshot3](https://github.com/AlexandrGoldin/BookStore.Client/assets/50864552/52da4a73-13e0-47ed-8360-f57d3e5b0ac4)
+
+_____
 
 
